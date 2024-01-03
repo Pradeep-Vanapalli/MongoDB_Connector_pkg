@@ -6,9 +6,9 @@ with open('README.md', 'r', encoding='utf-8') as f:
    
 
 __version__ = "0.0.4"
-REPO_NAME = "mongodbconnectorpkg"
+REPO_NAME = "MongoDB_Connector_pkg"
 PKG_NAME= "databaseautomation"
-AUTHOR_USER_NAME = "Pradeep Vanapalli"
+AUTHOR_USER_NAME = "Pradeep-Vanapalli"
 AUTHOR_EMAIL = "pradeep.vanapalli121@gmail.com"
 
 setup(
